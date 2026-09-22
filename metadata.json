@@ -1,0 +1,6 @@
+{
+  "name": "Confere.bet — Os fatos antes da aposta",
+  "description": "Plataforma independente de verificação e inteligência sobre o mercado brasileiro de apostas. Consulte se uma casa de apostas está autorizada no Brasil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
